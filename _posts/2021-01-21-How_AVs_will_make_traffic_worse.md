@@ -18,7 +18,7 @@ As more AVs enter the transportation system, will total miles go up, or stay the
 
 Even if the ratio changes, and there are more carrying cargo trips—i.e. more delivery trucks, 18 wheelers, etc.—traffic will still be an issue, because cars are fundamentally spatially inefficient. This problem is not social, economic, or moral, but rather geometric.
 
-![Image of space by transport mode](01 Comparison of car_Bus -Street-Space source- Press office, City of Munster, Germany.jpg)
+<img src="/images/01 Comparison of car_Bus -Street-Space source- Press office, City of Munster, Germany.jpg" style="width:6.5in;height:5.19653in" />
 
 In the image comparing the amount of space a bus takes to carry 60 passengers, versus the number of cars, it’s easy to see the bus is more efficient. (Of course, there are [**issues with this analysis**](https://john-s-allen.com/blog/?p=7), but considering [**how often**](https://jalopnik.com/silicon-valley-invents-bus-1796221702) [**tech start-ups**](https://10daily.com.au/news/tech/a180529jfc/why-silicon-valley-tech-bros-keep-inventing-the-bus-20180610) [**re-invent the bus**](https://www.nytimes.com/2015/10/15/technology/behind-the-failure-of-leap-transits-gentrified-buses-in-san-francisco.html), I'm fine with using it.) As the average size of vehicles on the road increases (cargo delivery vehicles tend to be larger than passenger vehicles), they will of course take up more space.
 
@@ -43,7 +43,7 @@ The greater point is that regardless of how efficient car utilization becomes, o
 
 1.  Ultimately, traffic is an induced demand phenomenon.
 
-![Graph showing induced demand in traffic](02 induced demand graph springerLink.png)
+<img src="/images/02 induced demand graph springerLink.png" style="width:2.31667in;height:1.50667in" />
 
 This means that as more capacity is created, demand will be created to use that space. ([**This phenomenon has been reported around the world for decades.**](https://www.vtpi.org/gentraf.pdf)) Both lane widening and new lane construction apply to this. Making car transportation more accessible and efficient is effectively “adding capacity” to the road system. So AVs will cause more demand, and create more traffic. Again, see the links about [**Uber**](https://usa.streetsblog.org/2019/08/07/uberlyft-responsible-for-a-large-share-of-traffic/) [**and**](https://www.theverge.com/2019/8/6/20756945/uber-lyft-tnc-vmt-traffic-congestion-study-fehr-peers) [**Lyft**](https://www.businessinsider.com/uber-lyft-creating-traffic-cities-bruce-schaller-2018-7) creating traffic.
 
