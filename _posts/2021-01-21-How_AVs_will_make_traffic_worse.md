@@ -1,5 +1,7 @@
 # How AVs will make traffic worse
 
+<img src="/images/00 - header - beijing1015-traffic - source-whitehotpix.jpg" style="width:5in;height:3" />
+
 Autonomous vehicles (AVs) are always in the news, and in a way near and dear to me. Growing up in suburbia and loving cars, I had long thought that AVs were the solution to every answer about traffic, parking, land use, etc.
 
 Now that I’ve learned more about planning, design, and math, I believe that the issues are more nuanced. The experiment of suburban sprawl—made possible by cars—was said to be the solution to dark, dirty cities. Seventy years later, we are seeing a return to those same cities. Overly positive discussions about the future of AVs sound like the 1950s sprawl rhetoric, which is worrying. AVs will arrive, like it or not, but the discussion can be re-centered around realistic pros and cons.
